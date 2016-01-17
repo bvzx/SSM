@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pcmuisc:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="pcmuisc-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="pcmuisc:war exploded" />
+    </root>
+  </artifact>
+</component>
